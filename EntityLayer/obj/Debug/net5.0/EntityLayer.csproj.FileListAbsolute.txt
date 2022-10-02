@@ -13,3 +13,18 @@ C:\Users\ŞeydaZenler\source\repos\TraversalCoreProject\EntityLayer\obj\Debug\ne
 C:\Users\ŞeydaZenler\source\repos\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\ŞeydaZenler\source\repos\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\ŞeydaZenler\source\repos\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Şeyda Yıldız\source\repos\seydazenler\TraversalCoreProject\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
