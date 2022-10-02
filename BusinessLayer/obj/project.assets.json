@@ -6198,11 +6198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\seydazenler\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\seydazenler\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\seydazenler\\TraversalCoreProject\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6224,11 +6224,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\seydazenler\\TraversalCoreProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\seydazenler\\TraversalCoreProject\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\seydazenler\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\seydazenler\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -6283,6 +6283,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

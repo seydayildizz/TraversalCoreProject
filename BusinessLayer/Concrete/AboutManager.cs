@@ -11,11 +11,12 @@ namespace BusinessLayer.Concrete
 {
     public class AboutManager : IAboutService
     {
+        //IAboutDal --> tür 
+        //Dependency Injection
         IAboutDal _aboutDal;
-
-        //Constructor metot -- yapıcı metot
         public AboutManager(IAboutDal aboutDal)
         {
+            //constructor metot
             _aboutDal = aboutDal;
         }
         public void TAdd(About t)
@@ -35,7 +36,7 @@ namespace BusinessLayer.Concrete
 
         public List<About> TGetList()
         {
-            //void olmayan metot
+            //void olmadığı için geriye değer dönmelidir return ile
            return _aboutDal.GetList();
         }
 

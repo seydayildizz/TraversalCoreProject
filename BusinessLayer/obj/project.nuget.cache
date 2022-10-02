@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M1T6aQTCmHBi8kiAfW1yl0xfecPhfeTBm6ZV6pexz6hx//MVnf18nbMqY6YsTegYUrPkQSYApLKslXtqiesM/w==",
+  "dgSpecHash": "HWliUTtHsC70Tu9zGcefzYMGgtOlxcw3EQe9FAapX51qpFxin+8HpWKrmY9ha5iVHrB9ycpUlo6OEHTvh+dzRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\seydazenler\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
@@ -103,7 +103,10 @@
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
