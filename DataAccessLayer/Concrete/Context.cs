@@ -13,7 +13,7 @@ namespace DataAccessLayer.Concrete
         //bağlantı adresi
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-JT5TD1I;database=TraversalDB" +
+            optionsBuilder.UseSqlServer("server=SEYDAYILDIZ\\MSSQLSERVER01;database=TraversalDB" +
                 ";integrated security=true");
         }
 

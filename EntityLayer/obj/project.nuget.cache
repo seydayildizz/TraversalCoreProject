@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FF9CZzznsWx4NY5TdEAW3KyaE8mDw+wkGye+PSt5qVUborsTIXLDPePNI97XRSbyrc9WkDYRwvEVKcb3Bezmug==",
+  "dgSpecHash": "E14ex3glsT5IBrSV/WDSdA/HvTYiJOPFyr+fPvbnp7ANMiS8TOPKNtnsP8GR3OB61oMhN/WK7kU/17dq07fBPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
@@ -100,10 +100,7 @@
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

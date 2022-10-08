@@ -16,3 +16,39 @@ C:\Users\ŞeydaZenler\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debu
 C:\Users\ŞeydaZenler\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
 C:\Users\ŞeydaZenler\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\ŞeydaZenler\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject-main\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
