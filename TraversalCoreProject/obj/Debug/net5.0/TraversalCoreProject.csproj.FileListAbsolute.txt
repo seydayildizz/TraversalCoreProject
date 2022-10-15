@@ -478,3 +478,5 @@ C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\TraversalCoreProject\
 C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\TraversalCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_Testimonial\Default.cshtml.g.cs
 C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\TraversalCoreProject\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
 C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\TraversalCoreProject\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\TraversalCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_CommentList\Default.cshtml.g.cs
+C:\Users\Şeyda Yıldız\source\repos\TraversalCoreProject\TraversalCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_AddComment\Default.cshtml.g.cs
