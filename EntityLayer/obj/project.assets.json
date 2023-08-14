@@ -6043,22 +6043,25 @@
   },
   "packageFolders": {
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\TraversalCoreProject\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\Şeyda Yıldız\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6067,6 +6070,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },

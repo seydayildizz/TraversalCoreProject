@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E14ex3glsT5IBrSV/WDSdA/HvTYiJOPFyr+fPvbnp7ANMiS8TOPKNtnsP8GR3OB61oMhN/WK7kU/17dq07fBPw==",
+  "dgSpecHash": "q/nwFB8R/qVZLhQfQiy4Hwp/2kgFlnTQ/Ubor124dCQ8DiObgKtrewJCewwM6pwXf2Epq4Mpsp4sVXewi0pdZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Şeyda Yıldız\\source\\repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Şeyda Yıldız\\Source\\Repos\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Şeyda Yıldız\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
